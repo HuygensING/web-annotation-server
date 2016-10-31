@@ -8,7 +8,7 @@
   </prerequisites>
 
   <groupId>nl.knaw.huygens</groupId>
-  <artifactId>web-annotations</artifactId>
+  <artifactId>web-annotation-server</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
